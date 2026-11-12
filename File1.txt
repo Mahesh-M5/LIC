@@ -1,4 +1,10 @@
 Stage 1
 For learning purpose
 
+<<<<<<< HEAD
 The Book title name is ATOMIC Habit written by James clear
+=======
+the great story start here
+the learning of GIT Hub started on 12-Nov-2026
+the unstoppable Maheshwaran was here
+>>>>>>> 16d995f0086ed5e2c7666afb7b81945a689d6683
